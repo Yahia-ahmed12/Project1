@@ -200,6 +200,13 @@
   padding: 16px 10px;
   text-align: center;
   position: relative;
+  height: 220px;
+}
+.web-iteam .div1{
+  padding-top: 14px;
+}
+.web-iteam .div2{
+  padding-top: 15px;
 }
 .web-iteam2 {
   margin: 0px 8%;
